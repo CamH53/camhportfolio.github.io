@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, R, AWS
 
 ## Education			        		
-- B.S., Computer Science | The University of North Carolina at Charlotte (_TBC May 2025_)
+- B.S., Computer Science | The University of North Carolina at Charlotte (_To Be Completed in May 2025_)
 
 ## Work Experience
 **Logistic Intern @ The Consignors (_May 2023 - August 2023_)**
@@ -14,19 +14,23 @@
 - Directed and managed day-to-day warehouse operations, including efficient inventory management for a team of senior move managers. 
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Improving an Online Statistics Course with Custom Metrics
+## 2024 Duke DataFest
+[Event Details]([https://www.mdpi.com/1424-8220/22/8/3048](https://dukestatsci.github.io/datafest/))
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Designed and implemented several statistical measurement indexes, such as persistence, accuracy, and efficiency, based on the data provided by the course platform and our own variables. Applied **ANOVA** analysis with Kruskal Result in Python’s Pandas to test the significance of our indexes and to identify the factors that influenced them. Used Tableau Dashboarding to create visualizations of our results and to generate actionable recommendations for improving the course content and structure, such as adding video questions, reorganizing question distributions, and clustering students into groups that would benefit them individually.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Hospital Readmittance Predictive Model
+## 2023 Carolina Data Challenge 
+[Github Repository]((https://github.com/CamH53/DiabetesDatasetTool))
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Researched and cleaned intricate healthcare datasets and collaborated effectively with a partner (@htnasah). 
+Spearheaded a data science project focused on enhancing diabetes patient care, securing 1st place out of 8 competing teams.
+Conducted comprehensive data analysis and visualization, leading to innovative solutions for improving patient care and showcasing strong problem-solving abilities, all while adhering to a strict software development lifecycle.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![LinkedIn Story]([/assets/img/bike_study.jpeg](https://www.linkedin.com/pulse/unlocking-insights-from-nostalgia-my-experience-2023-carolina-hirsh/?trackingId=%2BRcOr81jQ12IJQoZVbMqsg%3D%3D))
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
