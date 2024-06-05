@@ -13,25 +13,32 @@
 **Assistant Warehouse Manager @ The Downsizers (_May 2022 - August 2022_)**
 - Directed and managed day-to-day warehouse operations, including efficient inventory management for a team of senior move managers. 
 
+
 ## Key Projects
 
 ### Improving an Online Statistics Course with Custom Metrics
-## 2024 Duke DataFest
-[Event Details]([https://www.mdpi.com/1424-8220/22/8/3048](https://dukestatsci.github.io/datafest/))
+> 2024 Duke DataFest
+[Event Details](https://dukestatsci.github.io/datafest/))
 
-Designed and implemented several statistical measurement indexes, such as persistence, accuracy, and efficiency, based on the data provided by the course platform and our own variables. Applied **ANOVA** analysis with Kruskal Result in Python’s Pandas to test the significance of our indexes and to identify the factors that influenced them. Used Tableau Dashboarding to create visualizations of our results and to generate actionable recommendations for improving the course content and structure, such as adding video questions, reorganizing question distributions, and clustering students into groups that would benefit them individually.
+Designed and implemented several statistical measurement indexes, such as persistence, accuracy, and efficiency, utilizing data provided by the course platform "CourseKata" along with our own variables. Applied **ANOVA** analysis with Kruskal Result in **Python's Pandas** to test the significance of these indexes and to identify influential factors. Leveraged **Tableau Dashboarding** to create visualizations of our findings, which facilitated actionable recommendations for improving the course content and structure. These recommendations included adding video questions, reorganizing question distributions, and clustering students into groups for personalized benefits.
 
-![EEG Band Discovery](/assets/img/DUKE2024DATAFEST.png)
+![Duke 2024 Datafest](/assets/img/DUKE2024DATAFEST.png)
+
 
 ### Hospital Readmittance Predictive Model
-## 2023 Carolina Data Challenge 
+> 2023 Carolina Data Challenge 
 [Github Repository]((https://github.com/CamH53/DiabetesDatasetTool))
 
-Researched and cleaned intricate healthcare datasets and collaborated effectively with a partner (@htnasah). 
-Spearheaded a data science project focused on enhancing diabetes patient care, securing 1st place out of 8 competing teams.
-Conducted comprehensive data analysis and visualization, leading to innovative solutions for improving patient care and showcasing strong problem-solving abilities, all while adhering to a strict software development lifecycle.
+Conducted thorough research and data cleaning on intricate healthcare datasets in collaboration with a partner (@htnasah). Led a data science project focused on enhancing diabetes patient care, which secured 1st place out of 8 competing teams. This involved comprehensive data analysis and visualization in Python, leading to innovative solutions for improving patient care. The project showcased strong problem-solving abilities and adherence to a strict software development lifecycle.
 
-![LinkedIn Story]([/assets/img/bike_study.jpeg](https://www.linkedin.com/pulse/unlocking-insights-from-nostalgia-my-experience-2023-carolina-hirsh/?trackingId=%2BRcOr81jQ12IJQoZVbMqsg%3D%3D))
+![LinkedIn Story]((https://www.linkedin.com/pulse/unlocking-insights-from-nostalgia-my-experience-2023-carolina-hirsh/?trackingId=%2BRcOr81jQ12IJQoZVbMqsg%3D%3D))
+
+
+### Evaluating NC’s Education System
+> 2024 North Carolina Education Datathon
+
+Worked with a multidisciplinary team of statisticians to analyze public datasets related to North Carolina’s education system. Evaluated the strengths and weaknesses of the existing system, pinpointing areas for improvement. Developed a novel mathematical index incorporating weighted values to measure the health and future prospects of education systems across NC counties. Personally translated and presented complex data insights through user-friendly visualizations, making the findings accessible and actionable for stakeholders.
+
 
 ## Talks & Presentations
 - Project Presentation: Creating Tools to Help Students Graduate on Time - 2024 UNC Charlotte Hackathon, Spring 2024
