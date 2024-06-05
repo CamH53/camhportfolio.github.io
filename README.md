@@ -1,9 +1,13 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, R, AWS
+#### Technical Skills: SQL, Python, R, Tableau, AWS, Google Analytics 4
 
 ## Education			        		
 - B.S., Computer Science | The University of North Carolina at Charlotte (_To Be Completed in May 2025_)
+
+## Certifications
+- Data Scientist Associate in R Certificate | DataCamp (_August 21, 2023_)
+- Google Analytics 4 Certificate | Google (_July 31, 2023_)
 
 ## Work Experience
 **Logistic Intern @ The Consignors (_May 2023 - August 2023_)**
@@ -25,6 +29,15 @@ Designed and implemented several statistical measurement indexes, such as persis
 ![Duke 2024 Datafest](/assets/img/DUKE2024DATAFEST.png)
 
 
+### Evaluating NC’s Education System
+> 2024 North Carolina Education Datathon
+[Event Details](https://hunt-institute.org/north-carolina-education-datathon/)
+
+Worked with a multidisciplinary team of statisticians to analyze public datasets related to North Carolina’s education system. Evaluated the strengths and weaknesses of the existing system, pinpointing areas for improvement. Developed a novel mathematical index incorporating weighted values to measure the health and future prospects of education systems across NC counties. Personally translated and presented complex data insights through user-friendly visualizations, making the findings accessible and actionable for stakeholders.
+
+https://github.com/CamH53/camhportfolio.github.io/assets/131498291/dd5298a7-5a8d-483a-b896-a62e455a27a8
+
+
 ### Hospital Readmittance Predictive Model
 > 2023 Carolina Data Challenge
 [Event Details](https://cdc.cs.unc.edu/)
@@ -35,14 +48,6 @@ Conducted thorough research and data cleaning on intricate healthcare datasets i
 
 [LinkedIn Story](https://www.linkedin.com/pulse/unlocking-insights-from-nostalgia-my-experience-2023-carolina-hirsh/?trackingId=%2BRcOr81jQ12IJQoZVbMqsg%3D%3D)
 
-
-### Evaluating NC’s Education System
-> 2024 North Carolina Education Datathon
-[Event Details](https://hunt-institute.org/north-carolina-education-datathon/)
-
-Worked with a multidisciplinary team of statisticians to analyze public datasets related to North Carolina’s education system. Evaluated the strengths and weaknesses of the existing system, pinpointing areas for improvement. Developed a novel mathematical index incorporating weighted values to measure the health and future prospects of education systems across NC counties. Personally translated and presented complex data insights through user-friendly visualizations, making the findings accessible and actionable for stakeholders.
-
-https://github.com/CamH53/camhportfolio.github.io/assets/131498291/dd5298a7-5a8d-483a-b896-a62e455a27a8
 
 
 ## Talks & Presentations
