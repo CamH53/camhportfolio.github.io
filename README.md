@@ -42,6 +42,8 @@ Conducted thorough research and data cleaning on intricate healthcare datasets i
 
 Worked with a multidisciplinary team of statisticians to analyze public datasets related to North Carolina’s education system. Evaluated the strengths and weaknesses of the existing system, pinpointing areas for improvement. Developed a novel mathematical index incorporating weighted values to measure the health and future prospects of education systems across NC counties. Personally translated and presented complex data insights through user-friendly visualizations, making the findings accessible and actionable for stakeholders.
 
+https://github.com/CamH53/camhportfolio.github.io/assets/131498291/dd5298a7-5a8d-483a-b896-a62e455a27a8
+
 
 ## Talks & Presentations
 - Project Presentation: Creating Tools to Help Students Graduate on Time - 2024 UNC Charlotte Hackathon, Spring 2024
