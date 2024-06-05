@@ -26,16 +26,18 @@ Designed and implemented several statistical measurement indexes, such as persis
 
 
 ### Hospital Readmittance Predictive Model
-> 2023 Carolina Data Challenge 
-[Github Repository]((https://github.com/CamH53/DiabetesDatasetTool))
+> 2023 Carolina Data Challenge
+[Event Details]((https://cdc.cs.unc.edu/))
 
 Conducted thorough research and data cleaning on intricate healthcare datasets in collaboration with a partner (@htnasah). Led a data science project focused on enhancing diabetes patient care, which secured 1st place out of 8 competing teams. This involved comprehensive data analysis and visualization in Python, leading to innovative solutions for improving patient care. The project showcased strong problem-solving abilities and adherence to a strict software development lifecycle.
 
+[Github Repository]((https://github.com/CamH53/DiabetesDatasetTool))
 ![LinkedIn Story]((https://www.linkedin.com/pulse/unlocking-insights-from-nostalgia-my-experience-2023-carolina-hirsh/?trackingId=%2BRcOr81jQ12IJQoZVbMqsg%3D%3D))
 
 
 ### Evaluating NC’s Education System
 > 2024 North Carolina Education Datathon
+[Event Details](https://hunt-institute.org/north-carolina-education-datathon/)
 
 Worked with a multidisciplinary team of statisticians to analyze public datasets related to North Carolina’s education system. Evaluated the strengths and weaknesses of the existing system, pinpointing areas for improvement. Developed a novel mathematical index incorporating weighted values to measure the health and future prospects of education systems across NC counties. Personally translated and presented complex data insights through user-friendly visualizations, making the findings accessible and actionable for stakeholders.
 
