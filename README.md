@@ -13,14 +13,15 @@
 **Assistant Warehouse Manager @ The Downsizers (_May 2022 - August 2022_)**
 - Directed and managed day-to-day warehouse operations, including efficient inventory management for a team of senior move managers. 
 
-## Projects
+## Key Projects
+
 ### Improving an Online Statistics Course with Custom Metrics
 ## 2024 Duke DataFest
 [Event Details]([https://www.mdpi.com/1424-8220/22/8/3048](https://dukestatsci.github.io/datafest/))
 
 Designed and implemented several statistical measurement indexes, such as persistence, accuracy, and efficiency, based on the data provided by the course platform and our own variables. Applied **ANOVA** analysis with Kruskal Result in Python’s Pandas to test the significance of our indexes and to identify the factors that influenced them. Used Tableau Dashboarding to create visualizations of our results and to generate actionable recommendations for improving the course content and structure, such as adding video questions, reorganizing question distributions, and clustering students into groups that would benefit them individually.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![EEG Band Discovery](/assets/img/DUKE2024DATAFEST.png)
 
 ### Hospital Readmittance Predictive Model
 ## 2023 Carolina Data Challenge 
@@ -32,13 +33,13 @@ Conducted comprehensive data analysis and visualization, leading to innovative s
 
 ![LinkedIn Story]([/assets/img/bike_study.jpeg](https://www.linkedin.com/pulse/unlocking-insights-from-nostalgia-my-experience-2023-carolina-hirsh/?trackingId=%2BRcOr81jQ12IJQoZVbMqsg%3D%3D))
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+## Talks & Presentations
+- Project Presentation: Creating Tools to Help Students Graduate on Time - 2024 UNC Charlotte Hackathon, Spring 2024
+- Project Presentation: Improving an Online Statistics Course with Custom Metrics - 2024 Duke Datafest, Spring 2024
+- Project Presentation: Evaluating NC’s Education System - 2024 NC State Datathon, Fall 2024
+- Project Presentation: Hospital Readmittance Predictive Model - 2023 Carolina Data Challenge, Spring 2023
+- How Research in Behavioral Coaching Affects Client Success - Toastmasters Seminar, Fall 2023
+
 
 
 - [Data Science Blog](https://medium.com/@shawhin)
