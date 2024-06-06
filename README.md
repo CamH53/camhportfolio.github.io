@@ -27,7 +27,7 @@
 Designed and implemented several statistical measurement indexes, such as persistence, accuracy, and efficiency, utilizing data provided by the course platform "CourseKata" along with our own variables. Applied **ANOVA** analysis with Kruskal Result in **Python's Pandas** to test the significance of these indexes and to identify influential factors. Leveraged **Tableau Dashboarding** to create visualizations of our findings, which facilitated actionable recommendations for improving the course content and structure. These recommendations included adding video questions, reorganizing question distributions, and clustering students into groups for personalized benefits.
 
 ![Duke 2024 Datafest](/assets/img/DUKE2024DATAFEST.png)
-
+![Duke 2024 Datafest](<img src="/assets/img/DUKE2024DATAFEST.png" width="100" height="100"/>)
 
 ### Evaluating NC’s Education System
 > 2024 North Carolina Education Datathon
