@@ -43,7 +43,7 @@ https://github.com/CamH53/camhportfolio.github.io/assets/131498291/dd5298a7-5a8d
 
 Conducted thorough research and data cleaning on intricate healthcare datasets in collaboration with a partner (@htnasah). Led a data science project focused on enhancing diabetes patient care, which secured 1st place out of 8 competing teams. This involved comprehensive data analysis and visualization in Python, leading to innovative solutions for improving patient care. The project showcased strong problem-solving abilities and adherence to a strict software development lifecycle.
 
-<img src="assets/img/2024CarolinaDataChallenge.jpeg" width="500" height="400">
+<img src="assets/img/2024CarolinaDataChallenge.jpeg" width="550" height="400">
 
 [Github Repository](https://github.com/CamH53/DiabetesDatasetTool)
 
@@ -60,4 +60,4 @@ Conducted thorough research and data cleaning on intricate healthcare datasets i
 
 
 
-[Data Science Blog]((https://medium.com/@cameronhirsh))
+[Data Science Blog](https://medium.com/@cameronhirsh)
