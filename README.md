@@ -26,7 +26,7 @@
 
 Designed and implemented several statistical measurement indexes, such as persistence, accuracy, and efficiency, utilizing data provided by the course platform "CourseKata" along with our own variables. Applied **ANOVA** analysis with Kruskal Result in **Python's Pandas** to test the significance of these indexes and to identify influential factors. Leveraged **Tableau Dashboarding** to create visualizations of our findings, which facilitated actionable recommendations for improving the course content and structure. These recommendations included adding video questions, reorganizing question distributions, and clustering students into groups for personalized benefits.
 
-<img src="/assets/img/DUKE2024DATAFEST.png" width="400" height="400">
+<img src="/assets/img/DUKE2024DATAFEST.png" width="600" height="400">
 
 ### Evaluating NC’s Education System
 > 2024 North Carolina Education Datathon
@@ -42,7 +42,7 @@ https://github.com/CamH53/camhportfolio.github.io/assets/131498291/dd5298a7-5a8d
 [Event Details](https://cdc.cs.unc.edu/)
 
 Conducted thorough research and data cleaning on intricate healthcare datasets in collaboration with a partner (@htnasah). Led a data science project focused on enhancing diabetes patient care, which secured 1st place out of 8 competing teams. This involved comprehensive data analysis and visualization in Python, leading to innovative solutions for improving patient care. The project showcased strong problem-solving abilities and adherence to a strict software development lifecycle.
-
+<img src="assets/img/2024CarolinaDataChallenge.jpeg" width="600" height="400">
 ![2023 Carolina Data Challenge](assets/img/2024CarolinaDataChallenge.jpeg)
 
 [Github Repository](https://github.com/CamH53/DiabetesDatasetTool)
