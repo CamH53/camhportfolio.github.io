@@ -52,7 +52,7 @@ Conducted thorough research and data cleaning on intricate healthcare datasets i
 
 
 ## Talks & Presentations
-- Your Data Has or Will be leaked - Public Speaking, Spring 2024
+- Your Data Has or Will be leaked - ATKNS 102, Spring 2024
 - Project Presentation: Creating Tools to Help Students Graduate on Time - 2024 UNC Charlotte Hackathon, Spring 2024
 - Project Presentation: Improving an Online Statistics Course with Custom Metrics - 2024 Duke Datafest, Spring 2024
 - Project Presentation: Evaluating NC’s Education System - 2024 NC State Datathon, Fall 2024
