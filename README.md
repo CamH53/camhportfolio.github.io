@@ -1,22 +1,5 @@
-# Data Scientist
-
-#### Technical Skills: SQL, Python, R, Tableau, AWS, Google Analytics 4
-
-## Education			        		
-- B.S., Computer Science | The University of North Carolina at Charlotte (_To Be Completed in May 2025_)
-
-## Certifications
-- Data Scientist Associate in R Certificate | DataCamp (_August 21, 2023_)
-- Google Analytics 4 Certificate | Google (_July 31, 2023_)
-
-## Work Experience
-**Logistic Intern @ The Consignors (_May 2023 - August 2023_)**
-- Assisted with delivery logistics and ensuring timely and accurate shipments. 
-- Analyzed data and visualized responses for North Carolina auctioneer site covering bids, users, lots, auctions and related demographics.  
-
-**Assistant Warehouse Manager @ The Downsizers (_May 2022 - August 2022_)**
-- Directed and managed day-to-day warehouse operations, including efficient inventory management for a team of senior move managers. 
-
+# Cameron Hirsh: Data Scientist
+I'm a Computer Science major with a concentration in Data Science from University of North Carolina Charlotte. 
 
 ## Key Projects
 
