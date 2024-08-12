@@ -19,9 +19,7 @@ Designed and implemented several statistical measurement indexes, such as persis
 
 Worked with a multidisciplinary team of statisticians to analyze public datasets related to North Carolina’s education system. Evaluated the strengths and weaknesses of the existing system, pinpointing areas for improvement. Developed a novel mathematical index incorporating weighted values to measure the health and future prospects of education systems across NC counties. Personally translated and presented complex data insights through user-friendly visualizations, making the findings accessible and actionable for stakeholders.
 
-<video width="320" height="240" controls loop="" muted="" autoplay="">
-  <source src="https://github.com/CamH53/camhportfolio.github.io/raw/main/assets/336986937-dd5298a7-5a8d-483a-b896-a62e455a27a8.mp4">
-</video>
+[Project PDF](https://drive.google.com/file/d/1wlTg5236l70B2ZDZL0aMJ5UZN5lQeVCo/view?usp=sharing)
 
 ### Hospital Readmittance Predictive Model
 > 2023 Carolina Data Challenge
