@@ -47,4 +47,3 @@ Conducted thorough research and data cleaning on intricate healthcare datasets i
 - Eagle Scout | Scouts of America (_June 2020_)
 
 
-[Data Science Blog](https://medium.com/@cameronhirsh)
