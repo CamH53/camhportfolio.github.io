@@ -43,7 +43,5 @@ Conducted thorough research and data cleaning on intricate healthcare datasets i
 - Project Presentation: Hospital Readmittance Predictive Model - 2023 Carolina Data Challenge, Spring 2023
 - How Research in Behavioral Coaching Affects Client Success - Toastmasters Seminar, Fall 2023
 
-## Awards			        		
-- Eagle Scout | Scouts of America (_June 2020_)
 
 
