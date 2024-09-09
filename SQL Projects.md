@@ -3,18 +3,18 @@
 # "Mortgage" Page Before & After: 
 
 <p float="left">
-  <img src="assets/EOM2-1 img/Screenshot 2024-09-09 at 12.33.30 PM.png" width="200" />
-  <img src="assets/EOM2-1 img/Screenshot 2024-09-09 at 12.33.10 PM.png" width="200" />
+  <img src="assets/EOM2-1 img/Screenshot 2024-09-09 at 12.33.30 PM.png" width="200" height="400"/>
+  <img src="assets/EOM2-1 img/Screenshot 2024-09-09 at 12.33.10 PM.png" width="200" height="400"/>
 </p>
 
 
 <p float="left">
-  <figure style="margin-right: 20px;">
+  <figure style="margin-right: 10px;">
     <img src="assets/EOM2-1 img/Screenshot 2024-09-09 at 12.33.30 PM.png" width="200" />
     <figcaption>Caption for Image 1</figcaption>
   </figure>
   
-  <figure style="margin-left: 20px;">
+  <figure style="margin-left: 10px;">
     <img src="assets/EOM2-1 img/Screenshot 2024-09-09 at 12.33.10 PM.png" width="200" />
     <figcaption>Caption for Image 2</figcaption>
   </figure>
