@@ -3,9 +3,10 @@
 # "Mortgage" Page Before & After: 
 
 <p float="left">
-  <img src="assets/EOM2-1 img/Screenshot 2024-09-09 at 12.33.30 PM.png" width="200" height="400"/>
-  <img src="assets/EOM2-1 img/Screenshot 2024-09-09 at 12.33.10 PM.png" width="200" height="400"/>
+  <img src="assets/EOM2-1 img/Screenshot 2024-09-09 at 12.33.30 PM.png" width="200" height="400" style="margin-right: 20px;" />
+  <img src="assets/EOM2-1 img/Screenshot 2024-09-09 at 12.33.10 PM.png" width="200" height="400" style="margin-left: 20px;" />
 </p>
+
 
 
 <p float="left">
