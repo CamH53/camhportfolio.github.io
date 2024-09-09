@@ -1,5 +1,5 @@
 # Cameron Hirsh: Data Scientist
-I'm a Computer Science major with a concentration in Data Science from University of North Carolina Charlotte. Hi
+I'm a Computer Science major with a concentration in Data Science from University of North Carolina Charlotte.
 
 ## Key Projects
 
