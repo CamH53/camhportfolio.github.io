@@ -1,12 +1,25 @@
 ## Optimization for Loan Interest Rate Tracking: 
 
-# "Mortgage" Page Before: 
+# "Mortgage" Page Before & After: 
 
-<img src="assets/EOM2-1 img/Screenshot 2024-09-09 at 12.33.30 PM.png"  width="500" height="400">
+<p float="left">
+  <img src="assets/EOM2-1 img/Screenshot 2024-09-09 at 12.33.30 PM.png" width="200" />
+  <img src="assets/EOM2-1 img/Screenshot 2024-09-09 at 12.33.10 PM.png" width="200" />
+</p>
 
-# "Mortgage" Page After:
 
-<img src="assets/EOM2-1 img/Screenshot 2024-09-09 at 12.33.10 PM.png"  width="500" height="400">
+<p float="left">
+  <figure style="margin-right: 20px;">
+    <img src="assets/EOM2-1 img/Screenshot 2024-09-09 at 12.33.30 PM.png" width="200" />
+    <figcaption>Caption for Image 1</figcaption>
+  </figure>
+  
+  <figure style="margin-left: 20px;">
+    <img src="assets/EOM2-1 img/Screenshot 2024-09-09 at 12.33.10 PM.png" width="200" />
+    <figcaption>Caption for Image 2</figcaption>
+  </figure>
+</p>
+
 
 # "Money Market" Page Before:
 
@@ -15,11 +28,6 @@
 # "Money Market" Page After:
 
 <img src="assets/EOM2-1 img/Screenshot 2024-09-09 at 12.33.50 PM.png"  width="500" height="400">
-
-<p float="left">
-  <img src="assets/EOM2-1 img/Screenshot 2024-09-09 at 12.33.30 PM.png" width="200" />
-  <img src="assets/EOM2-1 img/Screenshot 2024-09-09 at 12.33.10 PM.png" width="200" />
-</p>
 
 In this project, I collaborated with a loan officer at First Mittagong Community Bank, to enhance the Excel workbook he uses for tracking interest rates. By applying advanced formatting techniques, I increased the workbook's usability and readability. This included updating themes, merging and centering headings, applying custom cell styles, formatting dates and numbers, and organizing data with borders and color coding. The improved workbook enables more efficient tracking and analysis of mortgage and money market rates, supporting better decision-making within the bank.
 
