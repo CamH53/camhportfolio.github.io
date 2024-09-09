@@ -2,7 +2,7 @@
 I'm a Computer Science major with a concentration in Data Science from the University of North Carolina at Charlotte. 
 
 ## SQL Projects
-<a href="SQL Projects.md">SQL Projects</a>
+<a href="Excel Projects.md">Excel Projects</a>
 
 
 ## Competition Projects
