@@ -1,7 +1,11 @@
 # Cameron Hirsh: Data Scientist
 I'm a Computer Science major with a concentration in Data Science from the University of North Carolina at Charlotte. 
 
-## Key Projects
+## SQL Projects
+<a href="SQL Projects.md">SQL Projects</a>
+
+
+## Competition Projects
 
 ### Improving an Online Statistics Course with Custom Metrics
 > 2024 Duke DataFest
