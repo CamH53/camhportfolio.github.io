@@ -1,4 +1,16 @@
-Project ?: 
+## Optimization for Loan Interest Rate Tracking: 
+
+"Mortgage" Page Before: 
+<img src="assets/EOM2-1 img/Screenshot 2024-09-09 at 12.33.30 PM.png"
+
+"Mortgage" Page After:
+<img src="assets/EOM2-1 img/Screenshot 2024-09-09 at 12.33.10 PM.png"
+
+"Money Market" Page Before: 
+<img src="assets/EOM2-1 img/Screenshot 2024-09-09 at 12.33.38 PM.png"
+
+"Money Market" Page After:
+<img src="assets/EOM2-1 img/Screenshot 2024-09-09 at 12.33.50 PM.png"
 
 In this project, I collaborated with a loan officer at First Mittagong Community Bank, to enhance the Excel workbook he uses for tracking interest rates. By applying advanced formatting techniques, I increased the workbook's usability and readability. This included updating themes, merging and centering headings, applying custom cell styles, formatting dates and numbers, and organizing data with borders and color coding. The improved workbook enables more efficient tracking and analysis of mortgage and money market rates, supporting better decision-making within the bank.
 
