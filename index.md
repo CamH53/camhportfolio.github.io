@@ -1,7 +1,14 @@
 # Cameron Hirsh: Data Scientist
 I'm a Computer Science major with a concentration in Data Science from the University of North Carolina at Charlotte. 
 
-### [Excel Projects](Excel Projects.md)
+## Scoped Skills
+
+<img src="assets/logo/Microsoft_Excel-Logo.wine.png" width="70" height="50"> [Excel Projects](ExcelProjects/Excel%20Projects.md)
+
+<img src="assets/logo/Python-Emblem.png" width="70" height="40"> [Python Projects](PythonProjects/HospitalReadmittancePredictiveModel.md)
+
+<img src="assets/logo/Tableau-Emblem.png" width="70" height="40"> [Tableau Projects](TableauProjects/Tableau Projects.md)
+
 
 ## Competition Projects
 
