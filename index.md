@@ -5,7 +5,7 @@ I'm a Computer Science major with a concentration in Data Science from the Unive
 
 <img src="assets/logo/Microsoft_Excel-Logo.wine.png" width="70" height="50"> [Excel Projects](ExcelProjects/Excel%20Projects.md)
 
-<img src="assets/logo/Python-Emblem.png" width="70" height="40"> [Python Projects](PythonProjects/Python%20Projects.md)
+<img src="assets/logo/Python-Emblem.png" width="70" height="40"> [Python Projects](https://chirsh1.wixsite.com/cameronhportfolio)
 
 <img src="assets/logo/Tableau-Emblem.png" width="70" height="40"> [Tableau Projects](TableauProjects/Tableau%20Projects.md)
 
@@ -14,25 +14,25 @@ I'm a Computer Science major with a concentration in Data Science from the Unive
 
 ### Improving an Online Statistics Course with Custom Metrics
 > 2024 Duke DataFest
-[Event Details](https://dukestatsci.github.io/datafest/))
+[Event Details](https://dukestatsci.github.io/datafest/)
 
 Designed and implemented several statistical measurement indexes, such as persistence, accuracy, and efficiency, utilizing data provided by the course platform "CourseKata" along with our own variables. Applied **ANOVA** analysis with Kruskal Result in **Python's Pandas** to test the significance of these indexes and to identify influential factors. Leveraged **Tableau Dashboarding** to create visualizations of our findings, which facilitated actionable recommendations for improving the course content and structure. These recommendations included adding video questions, reorganizing question distributions, and clustering students into groups for personalized benefits.
 
 [Project PDF](https://drive.google.com/file/d/1yLmX4tvcd41AwsWEm53RdutbP3DRjJwM/view?usp=sharing)
 
-<img src="assets/img/DUKE2024DATAFEST.png" width="500" height="400">
+<img src="assets/img/DUKE2024DATAFEST.png" width="550" height="400">
 
 ### Evaluating NC’s Education System
 > 2024 North Carolina Education Datathon
 [Event Details](https://hunt-institute.org/north-carolina-education-datathon/)
 
 Worked with a multidisciplinary team of statisticians to analyze public datasets related to North Carolina’s education system. Evaluated the strengths and weaknesses of the existing system, pinpointing areas for improvement. Developed a novel mathematical index incorporating weighted values to measure the health and future prospects of education systems across NC counties. Personally translated and presented complex data insights through user-friendly visualizations, making the findings accessible and actionable for stakeholders.
-<img src="assets/img/NCSD Dashboard 2.png" width="70" height="40"> 
-<img src="assets/img/NCSD Dashboard.png" width="70" height="40"> 
-
-
 
 [Project PDF](https://drive.google.com/file/d/1wlTg5236l70B2ZDZL0aMJ5UZN5lQeVCo/view?usp=sharing)
+
+<img src="assets/img/NCSD Dashboard 2.png" width="500" height="400"> 
+<img src="assets/img/NCSD Dashboard.png" width="500" height="400"> 
+
 
 ### Hospital Readmittance Predictive Model
 > 2023 Carolina Data Challenge
