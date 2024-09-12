@@ -9,6 +9,7 @@ In this project, I worked as the operations manager to finalize project data and
 On the Projects worksheet, I formatted text, entered new data, used AutoFit for column adjustments, and leveraged Excel's Flash Fill feature to auto-populate a series of codes. I then hid unnecessary columns for a cleaner presentation.
 **Projects Worksheet Skills Demonstrated:**
 - Increased font size to improve readability.
+
 - Entered data into a table and used AutoFit to adjust column width.
 - Used Flash Fill to auto-populate a series of values.
 - Hid columns to declutter the worksheet.
