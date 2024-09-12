@@ -4,6 +4,12 @@ I'm a Computer Science major with a concentration in Data Science from the Unive
 ## Excel Projects
 <a href="Excel Projects.md">Excel Projects</a>
 
+### [Excel Data Analysis Project](Excel Projects.md)
+A project where I performed in-depth data analysis using Excel tools such as PivotTables, VLOOKUP, and data visualization.
+
+### [Interest Rate Tracking Project](InterestRateTrackingProject.md)
+In this project, I tracked interest rate changes over time and analyzed trends using Python.
+
 
 ## Competition Projects
 
