@@ -5,9 +5,9 @@ I'm a Computer Science major with a concentration in Data Science from the Unive
 
 <img src="assets/logo/Microsoft_Excel-Logo.wine.png" width="70" height="50"> [Excel Projects](ExcelProjects/Excel%20Projects.md)
 
-<img src="assets/logo/Python-Emblem.png" width="70" height="40"> [Python Projects](PythonProjects/HospitalReadmittancePredictiveModel.md)
+<img src="assets/logo/Python-Emblem.png" width="70" height="40"> [Python Projects](PythonProjects/Python%20Projects.md)
 
-<img src="assets/logo/Tableau-Emblem.png" width="70" height="40"> [Tableau Projects](TableauProjects/Tableau Projects.md)
+<img src="assets/logo/Tableau-Emblem.png" width="70" height="40"> [Tableau Projects](TableauProjects/Tableau%20Projects.md)
 
 
 ## Competition Projects
@@ -27,6 +27,10 @@ Designed and implemented several statistical measurement indexes, such as persis
 [Event Details](https://hunt-institute.org/north-carolina-education-datathon/)
 
 Worked with a multidisciplinary team of statisticians to analyze public datasets related to North Carolina’s education system. Evaluated the strengths and weaknesses of the existing system, pinpointing areas for improvement. Developed a novel mathematical index incorporating weighted values to measure the health and future prospects of education systems across NC counties. Personally translated and presented complex data insights through user-friendly visualizations, making the findings accessible and actionable for stakeholders.
+<img src="assets/img/NCSD Dashboard 2.png" width="70" height="40"> 
+<img src="assets/img/NCSD Dashboard.png" width="70" height="40"> 
+
+
 
 [Project PDF](https://drive.google.com/file/d/1wlTg5236l70B2ZDZL0aMJ5UZN5lQeVCo/view?usp=sharing)
 
