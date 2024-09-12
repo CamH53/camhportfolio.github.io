@@ -1,6 +1,6 @@
 # Finalizing Projects and Scheduling Worksheets for Facilities Management
 
-In this project, I worked as the operations manager to finalize project data and facilities usage scheduling using Excel. The task involved working across two worksheets: Projects and Scheduling.  
+In this project, I finalized project data and facilities usage scheduling using Excel. The task involved working across two worksheets: Projects and Scheduling.  
 
 ## "Projects" Page Before & After: 
 <p float="left">
