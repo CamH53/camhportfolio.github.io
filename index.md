@@ -1,7 +1,7 @@
 # Cameron Hirsh: Data Scientist
 I'm a Computer Science major with a concentration in Data Science from the University of North Carolina at Charlotte. 
 
-## [Excel Projects](Excel Projects.md)
+### [Excel Projects](Excel Projects.md)
 
 ## Competition Projects
 
