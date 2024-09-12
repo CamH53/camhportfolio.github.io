@@ -1,15 +1,7 @@
 # Cameron Hirsh: Data Scientist
 I'm a Computer Science major with a concentration in Data Science from the University of North Carolina at Charlotte. 
 
-## Excel Projects
-<a href="Excel Projects.md">Excel Projects</a>
-
-### [Excel Data Analysis Project](Excel Projects.md)
-A project where I performed in-depth data analysis using Excel tools such as PivotTables, VLOOKUP, and data visualization.
-
-### [Interest Rate Tracking Project](InterestRateTrackingProject.md)
-In this project, I tracked interest rate changes over time and analyzed trends using Python.
-
+## [Excel Projects](Excel Projects.md)
 
 ## Competition Projects
 
