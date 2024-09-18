@@ -3,7 +3,7 @@ I'm a Computer Science major with a concentration in Data Science from the Unive
 
 ## Scoped Skills
 
-<img src=IndexAssets/logo/Microsoft_Excel-Logo.wine.png width="70" height="50"> [Excel Projects](ExcelProjects/Excel_Projects.md)
+<img src="IndexAssets/logo/Microsoft_Excel-Logo.wine.png" width="70" height="50"> [Excel Projects](ExcelProjects/Excel_Projects.md)
 
 <img src="IndexAssets/logo/Python-Emblem.png" width="70" height="40"> [Python Projects](https://chirsh1.wixsite.com/cameronhportfolio)
 
@@ -23,7 +23,7 @@ Designed and implemented several statistical measurement indexes, such as persis
 [Project PDF](https://drive.google.com/file/d/1yLmX4tvcd41AwsWEm53RdutbP3DRjJwM/view?usp=sharing)
 
 
-<img src=IndexAssets/img/DUKE2024DATAFEST.png width="550" height="400">
+<img src="IndexAssets/img/DUKE2024DATAFEST.png" width="550" height="400">
 
 ### Evaluating NC’s Education System
 > 2024 North Carolina Education Datathon
