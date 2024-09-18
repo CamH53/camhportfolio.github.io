@@ -3,11 +3,13 @@ I'm a Computer Science major with a concentration in Data Science from the Unive
 
 ## Scoped Skills
 
-<img src="assets/logo/Microsoft_Excel-Logo.wine.png" width="70" height="50"> [Excel Projects](ExcelProjects/Excel%20Projects.md)
+<img src=IndexAssets/logo/Microsoft_Excel-Logo.wine.png width="70" height="50"> [Excel Projects](ExcelProjects/Excel_Projects.md)
 
-<img src="assets/logo/Python-Emblem.png" width="70" height="40"> [Python Projects](https://chirsh1.wixsite.com/cameronhportfolio)
+<img src="IndexAssets/logo/Python-Emblem.png" width="70" height="40"> [Python Projects](https://chirsh1.wixsite.com/cameronhportfolio)
 
-<img src="assets/logo/Tableau-Emblem.png" width="70" height="40"> [Tableau Projects](TableauProjects/Tableau%20Projects.md)
+<img src="IndexAssets/logo/Tableau-Emblem.png" width="70" height="40"> [Tableau Projects](TableauProjects/Tableau_Projects.md)
+
+<img src="IndexAssets/logo/New_Power_BI_Logo.svg.png" width="50" height="40"> [PowerBI Projects](PowerBIProjects/PowerBI_Projects.md)
 
 
 ## Competition Projects
@@ -20,7 +22,8 @@ Designed and implemented several statistical measurement indexes, such as persis
 
 [Project PDF](https://drive.google.com/file/d/1yLmX4tvcd41AwsWEm53RdutbP3DRjJwM/view?usp=sharing)
 
-<img src="assets/img/DUKE2024DATAFEST.png" width="550" height="400">
+
+<img src=IndexAssets/img/DUKE2024DATAFEST.png width="550" height="400">
 
 ### Evaluating NC’s Education System
 > 2024 North Carolina Education Datathon
@@ -30,8 +33,8 @@ Worked with a multidisciplinary team of statisticians to analyze public datasets
 
 [Project PDF](https://drive.google.com/file/d/1wlTg5236l70B2ZDZL0aMJ5UZN5lQeVCo/view?usp=sharing)
 
-<img src="assets/img/NCSD Dashboard 2.png" width="500" height="400"> 
-<img src="assets/img/NCSD Dashboard.png" width="500" height="400"> 
+<img src="IndexAssets/img/NCSD Dashboard 2.png" width="500" height="400"> 
+<img src="IndexAssets/img/NCSD Dashboard.png" width="500" height="400"> 
 
 
 ### Hospital Readmittance Predictive Model
@@ -40,7 +43,7 @@ Worked with a multidisciplinary team of statisticians to analyze public datasets
 
 Conducted thorough research and data cleaning on intricate healthcare datasets in collaboration with a partner (@htnasah). Led a data science project focused on enhancing diabetes patient care, which secured 1st place out of 8 competing teams. This involved comprehensive data analysis and visualization in Python, leading to innovative solutions for improving patient care. The project showcased strong problem-solving abilities and adherence to a strict software development lifecycle.
 
-<img src="assets/img/2024CarolinaDataChallenge.jpeg" width="550" height="400">
+<img src="IndexAssets/img/2024CarolinaDataChallenge.jpeg" width="550" height="400">
 
 [Github Repository](https://github.com/CamH53/DiabetesDatasetTool)
 
