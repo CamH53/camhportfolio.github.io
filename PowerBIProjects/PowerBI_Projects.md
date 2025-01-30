@@ -3,14 +3,14 @@
 ### Consignors Customer Churn Project
 This work was done for an online auction company. https://theconsignors.com/
 
-https://github.com/CamH53/camhportfolio.github.io/blob/857c5b0a5ed61a0f9a0fb9cd05f46da2d9ab8c52/PowerBIProjects/CustomerChurn.pdf
+<a href="CamH53/camhportfolio.github.io/blob/857c5b0a5ed61a0f9a0fb9cd05f46da2d9ab8c52/PowerBIProjects/CustomerChurn.pdf" target="_blank">PDF.</a>
 
 ### HR Analytics Projecct
 
-https://github.com/CamH53/camhportfolio.github.io/blob/318614b7324d6d06e884873e09fac28f94ba3f8f/PowerBIProjects/HR_Analytics.pdf
+<a href="CamH53/camhportfolio.github.io/blob/318614b7324d6d06e884873e09fac28f94ba3f8f/PowerBIProjects/HR_Analytics.pdf" target="_blank">PDF.</a>
 
 ### Wake County Budgeting
 
-https://github.com/CamH53/camhportfolio.github.io/blob/980c1efd425eeebcfd0b7f7056368a069bd870e4/PowerBIProjects/WakeCountyBudgeting.pdf
+<a href="CamH53/camhportfolio.github.io/blob/980c1efd425eeebcfd0b7f7056368a069bd870e4/PowerBIProjects/WakeCountyBudgeting.pdf" target="_blank">PDF.</a>
 
 
