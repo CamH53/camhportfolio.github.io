@@ -3,7 +3,7 @@
 ### Consignors Customer Churn Project
 This work was done for an online auction company. https://theconsignors.com/
 
-<a href="CamH53/camhportfolio.github.io/blob/857c5b0a5ed61a0f9a0fb9cd05f46da2d9ab8c52/PowerBIProjects/CustomerChurn.pdf" target="_blank">PDF.</a>
+<a href="https://github.com/CamH53/camhportfolio.github.io/blob/b5b6f5226915871a645128e8f29021629800c23e/PowerBIProjects/HR_Analytics.pdf" target="_blank">PDF.</a>
 
 ### HR Analytics Projecct
 
